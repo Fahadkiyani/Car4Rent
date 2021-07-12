@@ -8,4 +8,10 @@
      -you may like: where latest manufectured cars or highly rated cars will be shown.  
      -Economical: where cheapest cars will be listed in ascending order.
 2. Detail screen.  
-    - [x] pictures slider
+    - pictures container
+    - Rent price bar
+    - heading
+    - location
+    - price list for day, week, and month
+    - features of car e.g. car manufectured year, milage, color, engine type, gear type
+ 
