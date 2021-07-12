@@ -2,8 +2,8 @@
 ## Untill now i have worked on the following things.
 
 1. - [x] Home Screen.  
-   - - [x] navigation bar  
-   - - [x] search bar. with pressable options which opens a new screen for advance searches.  
+   &emsp; - [x] navigation bar  
+   &emsp; - [x] search bar. with pressable options which opens a new screen for advance searches.  
    - - search for your car input field  
    - - city picker
    - - [x] made a list of all cities in ascending order 
