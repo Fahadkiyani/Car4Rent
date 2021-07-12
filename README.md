@@ -6,8 +6,8 @@
    - [x] search bar. with pressable options which opens a new screen for advance searches.  
       - search for your car input field  
       - city picker  <br />
-    - [x] made a list of all cities in ascending order 
-    - [x] two horizental lists.  
+    - [x] made a list of all cities in ascending order <br/>
+    - [x] two horizental lists.  <br/>
     - [x] you may like: where latest manufectured cars or highly rated cars will be shown.  
     -  [x] Economical: where cheapest cars will be listed in ascending order
      
