@@ -4,8 +4,8 @@
 ### 1.Home Screen.  
    - [x] navigation bar  
    - [x] search bar. with pressable options which opens a new screen for advance searches.  
-         - search for your car input field  
-         - city picker  <br />
+         -search for your car input field  
+         -city picker  <br />
     - made a list of all cities in ascending order <br/>
     - two horizental lists.  <br/>
     - you may like: where latest manufectured cars or highly rated cars will be shown.  
