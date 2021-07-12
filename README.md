@@ -1,7 +1,7 @@
 # Car4Rent
 ## Untill now i have worked on the following things.
 
-### 1. - [x] Home Screen.  
+1. ### Home Screen.  
    - [x] navigation bar  
     - [x] search bar. with pressable options which opens a new screen for advance searches.  
     -search for your car input field  
