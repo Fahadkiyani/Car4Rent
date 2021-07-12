@@ -1,9 +1,12 @@
 # Car4Rent
-## Untill recently i have worked on the Following things.
+## Untill now i have worked on the following things.
 
 1. Home Screen.  
    - [x] navigation bar  
-   - [x] search bar with seperate city picker  
+   - [x] search bar.  
+   -search for your car input field  
+   -city picker
+   - [x] made a list of all cities in ascending order 
    - [x] two horizental lists.  
      -you may like: where latest manufectured cars or highly rated cars will be shown.  
      -Economical: where cheapest cars will be listed in ascending order.
