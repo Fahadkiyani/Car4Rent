@@ -16,12 +16,12 @@
    - [ ] working on search functionality; where location of client will be fetched and other search modification options will be available.  <br/>
   
 ### 2.Detail screen  
-- [x] pictures container
-- [x] Rent price bar
-- [x] heading
-- [x] location
-- [x] price list for day, week, and month
-- [x] features of car e.g. car manufectured year, milage, color, engine type, gear type
+   - [x] pictures container
+   - [x] Rent price bar
+   - [x] heading
+   - [x] location
+   - [x] price list for day, week, and month
+   - [x] features of car e.g. car manufectured year, milage, color, engine type, gear type
  
  ### 3.All Cars Screen.  
    This screen will also be used for showing search results.
