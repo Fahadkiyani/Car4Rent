@@ -26,6 +26,6 @@
  ## work in progress
  ### 3.All Cars Screen.  
    - [ ] This screen will also be used for showing search results.  
-   <br/>
+   
 ### 4.Form screen for submiting request to rent a car.
 
