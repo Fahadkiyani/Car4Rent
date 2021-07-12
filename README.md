@@ -23,6 +23,8 @@
    - [x] price list for day, week, and month
    - [x] features of car e.g. car manufectured year, milage, color, engine type, gear type
  
+ ## work in progress
  ### 3.All Cars Screen.  
-   - This screen will also be used for showing search results.
+ 
+   - [x] This screen will also be used for showing search results.
      
