@@ -24,5 +24,5 @@
    - [x] features of car e.g. car manufectured year, milage, color, engine type, gear type
  
  ### 3.All Cars Screen.  
-   This screen will also be used for showing search results.
+   - This screen will also be used for showing search results.
      
