@@ -4,16 +4,16 @@
 ### 1.Home Screen.  
    - [x] navigation bar  
    - [x] search bar. with pressable options which opens a new screen for advance searches.  
-      - search for your car input field  
-      - city picker  <br />
+         - search for your car input field  
+         - city picker  <br />
     - made a list of all cities in ascending order <br/>
     - two horizental lists.  <br/>
     - you may like: where latest manufectured cars or highly rated cars will be shown.  
     - Economical: where cheapest cars will be listed in ascending order
      
-     ###### Working on following things in Home Screen.  <br/>
+     ###### Working on following things in Home Screen.  
      - [ ] suggested tags for searching cars; e.g. cars between rent of 1000-2000 pkr/day  or Luxurious cars, Suv's, Sedans's etc.
-     - [ ] working on search functionality; where location of client will be fetched and other search modification options will be available.  
+     - [ ] working on search functionality; where location of client will be fetched and other search modification options will be available.  <br/>
   
 ### 2.Detail screen  
     - [x] pictures container
