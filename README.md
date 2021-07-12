@@ -2,7 +2,7 @@
 ## Untill now i have worked on the following things.
 
 1. - [x] Home Screen.  
-   &emsp; - [x] navigation bar  
+   - [x] &emsp; navigation bar  
    &emsp; - [x] search bar. with pressable options which opens a new screen for advance searches.  
    - - search for your car input field  
    - - city picker
