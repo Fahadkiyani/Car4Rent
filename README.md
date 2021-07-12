@@ -11,11 +11,12 @@
     - you may like: where latest manufectured cars or highly rated cars will be shown.  
     - Economical: where cheapest cars will be listed in ascending order
      
-     ###### Working on following things in Home Screen.  
+     ###### Working on following things in Home Screen.  <br/>
+     
      - [ ] suggested tags for searching cars; e.g. cars between rent of 1000-2000 pkr/day  or Luxurious cars, Suv's, Sedans's etc.
      - [ ] working on search functionality; where location of client will be fetched and other search modification options will be available.  
   
-### 2.Detail screen.  
+### 2.Detail screen  
     - pictures container
     - Rent price bar
     - heading
