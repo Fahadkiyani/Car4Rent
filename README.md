@@ -5,5 +5,5 @@
     navigation bar  
     search bar with seperate city picker  
     two horizental lists.  
-      you may like: where latest manufectured cars or highly rated cars will be shown.  
-      Economical: where cheapest cars will be listed in ascending order.
+     - you may like: where latest manufectured cars or highly rated cars will be shown.  
+     - Economical: where cheapest cars will be listed in ascending order.
